@@ -1,3 +1,4 @@
+//<![CDATA[
 var elem = document.documentElement;
 function openFullscreen() {
 if (elem.requestFullscreen) {
@@ -21,3 +22,4 @@ document.webkitExitFullscreen();
 document.msExitFullscreen();}
 document.getElementById("rahFullScreen53").style.display = "block";
 document.getElementById("rahDefeaultScreen53").style.display = "none";}
+//]]>
